@@ -14,3 +14,6 @@ Where Code Get 🤔
 ```
 Code Get On India.py
 ```
+# Details
+
+Thanks [Ln Technical](https://GitHub.com/lntechnical2) For This
