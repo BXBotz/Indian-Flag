@@ -10,4 +10,7 @@ What To Install 🤔
 ```
 pip install turtle
 ```
-Code Get On [India.py](https://github.com/BXBotz/Indian-Flag/blob/main/India.py)
+Where Code Get 🤔
+```
+Code Get On India.py
+```
