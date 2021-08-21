@@ -6,10 +6,6 @@
 ```
 Run Code To Work This
 ```
-𝐖𝐡𝐚𝐭 𝐓𝐨 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 🤔
-```
-pip install turtle
-```
 𝐖𝐡𝐞𝐫𝐞 𝐆𝐞𝐭 𝐂𝐨𝐝𝐞 🤔
 ```
 Code Get On India.py
