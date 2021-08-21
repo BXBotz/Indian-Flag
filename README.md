@@ -19,4 +19,4 @@ Code Get On India.py
 𝐓𝐡𝐚𝐧𝐤𝐬 [𝐋𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥](https://GitHub.com/lntechnical2) 𝐅𝐨𝐫 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 
 
-<img src="https://telegra.ph/file/a84c07f081e68444caced.jpg" width="200" height="100">
+<img src="https://telegra.ph/file/a84c07f081e68444caced.jpg" width="200" height="120">
