@@ -2,7 +2,7 @@
 
 🇮🇳 A Indian Flag Animation Project Made With Python
 
-How To Work This 🤔
+How To Work 🤔
 ```
 Run Code To Work This
 ```
