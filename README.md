@@ -16,4 +16,4 @@ Code Get On India.py
 ```
 # Details
 
-Thanks [Ln Technical](https://GitHub.com/lntechnical2) For This
+𝐓𝐡𝐚𝐧𝐤𝐬 [𝐋𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥](https://GitHub.com/lntechnical2) 𝐅𝐨𝐫 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
