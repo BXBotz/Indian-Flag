@@ -3,8 +3,6 @@
 🇮🇳 A Indian Flag Animation Project Made With Python
 
 ```
-How To Work?
-
-Run This Code Via Any Code Runner
+Run Code To Work This
 ```
 
