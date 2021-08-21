@@ -2,15 +2,15 @@
 
 🇮🇳 A Indian Flag Animation Project Made With Python
 
-How To Work 🤔
+𝐇𝐨𝐰 𝐓𝐨 𝐖𝐨𝐫𝐤🤔
 ```
 Run Code To Work This
 ```
-What To Install 🤔
+𝐖𝐡𝐚𝐭 𝐓𝐨 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 🤔
 ```
 pip install turtle
 ```
-Where Code Get 🤔
+𝐖𝐡𝐞𝐫𝐞 𝐆𝐞𝐭 𝐂𝐨𝐝𝐞 🤔
 ```
 Code Get On India.py
 ```
